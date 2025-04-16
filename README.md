@@ -21,10 +21,10 @@
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="350px" align="right" alt="Coding illustration">
 
 ```javascript
-const krajtilak = {
+const Jyotiranjan = {
     Education: "Computer Science & Engineering",
     Passion: ["Web Development", "Robotics", "IoT", "AI"],
-    Website: "krajtilak.vercel.app",
+    Website: "jrn.vercel.app",
     Focused: "True"
 };
 ```
