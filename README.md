@@ -40,17 +40,17 @@ const Jyotiranjan = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajtilak-2020&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajtilak-2020&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=1997Jyotiranjannayak&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1997Jyotiranjannayak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="49%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajtilak-2020&theme=midnight-purple&hide_border=true" width="60%"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=1997Jyotiranjannayak&theme=dark&hide_border=false" width="60%"/>
 </div>
 
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajtilak-2020&bg_color=000000&color=ffffff&line=00ff04&point=ff0000&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=1997Jyotiranjannayak&bg_color=000000&color=ffffff&line=00ff04&point=ff0000&area=true&hide_border=true" alt="GitHub Activity Graph"/>
   </a>
 </div>
 
@@ -58,7 +58,7 @@ const Jyotiranjan = {
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajtilak-2020&theme=darkhub&no-frame=true&no-bg=true&column=9" width="100%" alt="Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=1997Jyotiranjannayak&theme=darkhub&no-frame=true&no-bg=true&column=9" width="100%" alt="Trophies">
 </div>
 
 ## ✍️ Random Dev Quote
@@ -66,17 +66,10 @@ const Jyotiranjan = {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
 </div>
 
-## ☕️ Support My Work
-<div align="left">
-  <a href="https://buymeacoffee.com/k.raj_tilak2020">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&border_radius=10" alt="Buy Me A Coffee">
-  </a>
-</div>
-
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 <!-- Profile Views Counter -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=rajtilak-2020&style=for-the-badge&color=blueviolet&border_radius=10" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=1997Jyotiranjannayak&style=for-the-badge&color=blueviolet&border_radius=10" alt="Profile Views">
 </p>
